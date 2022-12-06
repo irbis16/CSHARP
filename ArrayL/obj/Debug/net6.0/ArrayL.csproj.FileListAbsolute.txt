@@ -1,0 +1,15 @@
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\ArrayL.csproj.AssemblyReference.cache
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\ArrayL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\ArrayL.AssemblyInfoInputs.cache
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\ArrayL.AssemblyInfo.cs
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\ArrayL.csproj.CoreCompileInputs.cache
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\bin\Debug\net6.0\ArrayL.exe
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\bin\Debug\net6.0\ArrayL.deps.json
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\bin\Debug\net6.0\ArrayL.runtimeconfig.json
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\bin\Debug\net6.0\ArrayL.dll
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\bin\Debug\net6.0\ArrayL.pdb
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\ArrayL.dll
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\refint\ArrayL.dll
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\ArrayL.pdb
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\ArrayL.genruntimeconfig.cache
+C:\Users\irbis\OneDrive\Документы\GB\LESSON\ArrayL\obj\Debug\net6.0\ref\ArrayL.dll
